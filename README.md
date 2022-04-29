@@ -1,2 +1,2 @@
-# calculadora
- Calculadora feita em html, css e javascript
+# Calculadora
+ Calculadora que fiz acompanhando uma pagina de instagram
